@@ -1,13 +1,8 @@
 *README*
 ![Design preview for the Slideshow](./Slideshow.png)
 
-Goal of this project was to create slideshow with features:
+The purpose of this project is to demonstrate proficiency in web development skills, including HTML, CSS, and jQuery, by creating an interactive slideshow. 
+This project serves as a valuable learning opportunity for understanding the principles of responsive design, interactivity, and content manipulation in web development.
 
-navigation menu show/hide,
-add slide,
-reset slides to default three slides, 
-dark-mode,
-saving data in local storage, so after refreshing webpage, everything stays as you left it.
-
-Project was made with 2 .js files written in javascript and jQuery (same logic but one file is written in clean javascript and other in clean jQuery), HTML and CSS.
+Project was made with 2 .js files written in javascript and jQuery (same logic but one file is written in plain javascript and other in jQuery), HTML and CSS.
 Default code included in HTML is jQ_app.js (jQuery).
